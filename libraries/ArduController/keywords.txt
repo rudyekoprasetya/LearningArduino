@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ArduControllerEthernet	KEYWORD1
+ArduControllerBluetooth	KEYWORD1
+StateOfLife	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+communication	KEYWORD2
+sendATCommand	KEYWORD2
+putCustomWidgetValues	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+
+CUSTOM_WIDGET_1	LITERAL1
+CUSTOM_WIDGET_2	LITERAL1
+CUSTOM_WIDGET_3	LITERAL1
+CUSTOM_WIDGET_4	LITERAL1
+CUSTOM_WIDGET_5	LITERAL1
+CUSTOM_WIDGET_6	LITERAL1
